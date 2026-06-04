@@ -1,0 +1,2 @@
+Use when the user provides a mobile UI design image and a sliced-asset directory, then asks Codex to implement or visually refine a render-side web page in an existing project. Covers project discovery, design asset mapping, Vue/Vant route integration, static-vs-dynamic text handling, JSON mock API data, build verification, and screenshot-level visual QA for localhost pages.
+当用户提供移动端 UI 设计图和切图资源目录，并要求 Codex 在现有项目中实现或视觉精修渲染页面时使用本 skill。涵盖项目探索、设计资产映射、Vue/Vant 路由集成、静态与动态文本处理、JSON mock API 数据、构建验证，以及针对 localhost 页面的截图级视觉 QA。
